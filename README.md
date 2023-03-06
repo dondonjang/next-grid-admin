@@ -1,8 +1,6 @@
 # Next Grid Admin
 
-![version](https://img.shields.io/badge/version-0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/dondonjang/next-grid-admin/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-nextjs.svg)</a> <a href="https://github.com/dondonjang/next-grid-admin/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-nextjs.svg)</a>
-
-![Next Grid Admin](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)
+![version](https://img.shields.io/badge/version-0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/dondonjang/next-grid-admin/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/dondonjang/next-grid-admin.svg)</a> <a href="https://github.com/dondonjang/next-grid-admin/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/dondonjang/next-grid-admin.svg)</a>
 
 ### Fork된 프로젝트
 
